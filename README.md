@@ -245,6 +245,13 @@ This project serves as a basic framework for employee management. In the future,
 
 ##ui
 ![image](https://github.com/user-attachments/assets/cec4216f-d70f-4420-aefc-72e70cbf4093)
+![image](https://github.com/user-attachments/assets/e7a13a7b-b689-4ed4-b0e8-fbc83b451423)
+![image](https://github.com/user-attachments/assets/bfa90324-2192-421e-a807-ef255c085085)
+![image](https://github.com/user-attachments/assets/4d3f3c3e-4a16-4ee5-b116-ea7ba6a2ea58)
+![image](https://github.com/user-attachments/assets/a06708ce-e923-4c26-9e5a-35ed90482a47)
+![image](https://github.com/user-attachments/assets/7dac09d2-54d1-4e9b-9411-652e8d99d59c)
+![image](https://github.com/user-attachments/assets/5bbe5edb-8913-4293-9af6-9517d2de471e)
+
 
 ## Acknowledgements
 
