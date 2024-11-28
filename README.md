@@ -243,11 +243,8 @@ This project serves as a basic framework for employee management. In the future,
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
+##ui
+![image](https://github.com/user-attachments/assets/cec4216f-d70f-4420-aefc-72e70cbf4093)
 
 ## Acknowledgements
 
